@@ -1,0 +1,79 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/juhyeon/Dev/unity/CatEscape_2019111682
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49608
+Successfully changed project path to: /Users/juhyeon/Dev/unity/CatEscape_2019111682
+/Users/juhyeon/Dev/unity/CatEscape_2019111682
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/juhyeon/Dev/unity/CatEscape_2019111682/Assets
+GfxDevice: creating device client; threaded=0
+2022-05-09 14:45:03.258 Unity[59164:2108084] (null) preferred device: Apple M1 Pro (high power)
+2022-05-09 14:45:03.258 Unity[59164:2108084] Metal devices available: 1
+2022-05-09 14:45:03.258 Unity[59164:2108084] 0: Apple M1 Pro (high power)
+2022-05-09 14:45:03.258 Unity[59164:2108084] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002109 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 34.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.267 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.637 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.9 MB.
+System memory in use after: 146.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 1.658541 ms (FindLiveObjects: 0.145125 ms CreateObjectMapping: 0.035625 ms MarkObjects: 1.361709 ms  DeleteObjects: 0.115250 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GameDirector.cs
+  artifactKey: Guid(fe9cace5cb06045c09b4d5a6341ad7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDirector.cs using Guid(fe9cace5cb06045c09b4d5a6341ad7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759132856ef5df4382212dc55a44220c') in 0.152449 seconds
+  Import took 0.154745 seconds .
+
